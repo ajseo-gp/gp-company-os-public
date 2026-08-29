@@ -22,6 +22,7 @@
 
 ## 문서 구조
 
+- `HISTORY-ROADMAP.md` — GP Company AI Native 전환 연대기와 다음 단계의 공개 로드맵
 - `docs/AI-NATIVE-FRAMEWORK.md` — 전체 방법론
 - `docs/CONTEXT-AND-DECISIONS.md` — Context / Decision / Knowledge 경계
 - `docs/EXECUTION-LOOP.md` — 실행과 학습 루프
